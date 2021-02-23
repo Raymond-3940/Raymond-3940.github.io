@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : neon # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Upto_Millionaire"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "정종혁1995"
+name                     : 정종혁1995
 description              : "An amazing website."
 url                      : "https://Raymond-3940.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
