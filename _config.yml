@@ -41,7 +41,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
+    theme                : # "github-dark" (default), "github-dark"
     issue_term           : # "pathname" (default)
   staticman:
     branch               : # "master"
@@ -74,7 +74,7 @@ twitter:
   username               :
 facebook:
   username               :
-  app_id                 :
+  app_id                 :"gur9538@naver.com"
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
@@ -96,9 +96,9 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Thisisneverthat"
+  location         : "Daegu_KNU"
+  email            :"gur9538@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
