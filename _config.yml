@@ -98,7 +98,7 @@ author:
   avatar           : "/assets/images/123.jpg"
   bio              : "Thisisneverthat"
   location         : "South Korea"
-  email            :"gur9538@naver.com"
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
